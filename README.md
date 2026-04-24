@@ -1,13 +1,13 @@
-# 📊 Excel Dashboard Project
+#  Excel Dashboard Project
 
-## 🔷 Project Overview
+##  Project Overview
 
 This project is an Excel-based dashboard that analyzes data using charts, formulas, and pivot tables.
 It helps in understanding trends, performance, and key insights from the dataset.
 
 ---
 
-## 🔷 📁 Files Included
+##  Files Included
 
 * Excel File (.xlsx)
 * Dashboard Screenshots
@@ -15,7 +15,7 @@ It helps in understanding trends, performance, and key insights from the dataset
  
 ---
 
-## 🔷 🔍 Key Insights
+##  Key Insights
 
 * Sales performance analysis
 * Category-wise comparison
@@ -24,7 +24,7 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ---
 
-## 🔷 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -34,7 +34,7 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ---
 
-## 🔷 📈 Features
+##  Features
 
 * Interactive dashboard
 * Dynamic charts
@@ -42,7 +42,7 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ---
 
-## 🔷 🚀 How to Use
+##  How to Use
 
 1. Download the Excel file
 2. Open in Microsoft Excel
@@ -50,14 +50,8 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ---
 
-## 🔷 📌 Conclusion
+##  Conclusion
 
 This dashboard provides useful insights from raw data and helps in better decision-making.
 
 ---
-
-## 🔷 🙌 Author
-
-Your Name   
-
-shweta pandey
