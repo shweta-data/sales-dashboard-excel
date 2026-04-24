@@ -44,7 +44,11 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ##  Screenshots
 
-<img width="1282" height="815" alt="Screenshot 2026-04-22 185816" src="https://github.com/user-attachments/assets/5fe2439b-7c19-4f3e-b238-a2a932c270cb" />
+<img width="1883" height="650" alt="excel_dashboard" src="https://github.com/user-attachments/assets/29bd9697-31c8-4b26-852e-523deeda3c4b" />
+
+
+
+
 
 ---
 
