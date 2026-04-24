@@ -11,7 +11,7 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 * Excel File (.xlsx)
 * Dashboard Screenshots
-* Dataset (if included)
+* Dataset 
  
 ---
 
@@ -53,5 +53,3 @@ It helps in understanding trends, performance, and key insights from the dataset
 ##  Conclusion
 
 This dashboard provides useful insights from raw data and helps in better decision-making.
-
----
