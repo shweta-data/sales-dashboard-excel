@@ -42,6 +42,12 @@ It helps in understanding trends, performance, and key insights from the dataset
 
 ---
 
+##  Screenshots
+
+<img width="1282" height="815" alt="Screenshot 2026-04-22 185816" src="https://github.com/user-attachments/assets/5fe2439b-7c19-4f3e-b238-a2a932c270cb" />
+
+---
+
 ##  How to Use
 
 1. Download the Excel file
